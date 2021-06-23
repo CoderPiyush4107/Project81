@@ -1,0 +1,19 @@
+#title
+{
+    color: red;
+    font-size: 40px;
+    
+}
+
+body
+{
+    background-image: url("bg1 (2).jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10;
+    background-color: #fff;
+    border-style: ridge;
+}
